@@ -2,7 +2,7 @@
 <p>I'm Hihraim, an active technical wiki designer and a student in IT/CS field. <img align="right" src="https://komarev.com/ghpvc/?username=hihraim04&label=Profile%20views&color=0e75b6&style=flat" alt="hihraim" /></p>
 
 ## About Me
-- 🌟 ENTJ 8w9 so/sp 835
+- 🌟 ENTJ 8w9 so/sx 853 LIE
 - 🎸 Heterosexual ally
 - 🌐 CEFR: ru (C2) / uk (C2) / en (B1) / he (A1)
 - 🥵 CSS, CSS, CSS
