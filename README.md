@@ -4,7 +4,7 @@
 ## About Me
 - 🌟 ENTJ 8w9 so/sx 853 LIE
 - 🎸 Heterosexual ally
-- 🌐 CEFR: ru (C2) / uk (C2) / en (B1) / he (A1)
+- 🌐 CEFR: ru (C2) / uk (C2) / isv (B2) / en (B1)
 - 🥵 CSS, CSS, CSS
 
 💬 You can contact me on Discord: [hihraim](https://discord.com/users/428596508271575040).
