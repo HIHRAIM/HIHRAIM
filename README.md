@@ -3,7 +3,7 @@
 ### 📌 About Me
 - 💻 IT & CS student • MediaWiki front-end developer & engineer
 - 🌐 CEFR: Russian (C2) • Ukrainian (C2) • Interslavic (B2) • English (B1)
-- 🗣️ Nickname pronunciation: /ˈxʲi.xrɐ.im/ <sup>[🔉](https://ipa-reader.com)</sup>
+- 🗣️ Nickname pronunciation: [ˈxʲixraim] <sup>[🔉](https://ipa-reader.com)</sup>
 
 ### 🧰 My Tech Stack
 | Programming | Level    | Web & Markup | Level        |
