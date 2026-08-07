@@ -7,7 +7,7 @@
 - 🗣️ Nickname pronunciation: [ˈxʲixraim] <sup>[🔉](https://ipa-reader.com)</sup>
 
 ### 🚧 Currently Working On
-- **[Democrate](https://github.com/HIHRAIM/Democrate)** — cross-platform coordination bot for unions of wiki communities: political parties, governing bodies, Fandom verification, quizzes through dialogue and a full cross-community economy.
+- **[Democrate](https://github.com/HIHRAIM/Democrate)** — cross-platform coordination bot for unions of wiki communities: parties, governing bodies, Fandom verification, quizzes through dialogue and a full cross-community economy.
 - **[Confederate](https://github.com/HIHRAIM/Confederate)** — Discord ↔ Telegram bridge: relays messages between channels, threads and forum topics, and follows outside sources into them any MediaWiki's recent changes, Fandom Discussions, Bluesky, YouTube and public Telegram channels.
 - **[Confederate Guard](https://github.com/HIHRAIM/Confederate-Guard)** — Discord moderation bot that guards channels against link spam and unwanted attachments.
 
