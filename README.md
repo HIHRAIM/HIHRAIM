@@ -2,7 +2,7 @@
 
 ### 📌 About Me
 - 💻 IT & CS student • MediaWiki front-end developer & engineer
-- 🤖 I build Discord × Telegram bots
+- 🤖 Discord × Telegram bot developer
 - 🌐 CEFR: Russian (C2) • Ukrainian (C2) • Interslavic (B2) • English (B1)
 - 🗣️ Nickname pronunciation: [ˈxʲixraim] <sup>[🔉](https://ipa-reader.com)</sup>
 
