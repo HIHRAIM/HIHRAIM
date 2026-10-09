@@ -32,7 +32,7 @@
 - [![Telegram](https://img.shields.io/badge/Telegram-ConfederateDevBot-26a5e4?logo=telegram&logoColor=white)](https://t.me/ConfederateDevBot) <sup>— write to the bot and it puts you through to me</sup>
 - [![Fandom](https://img.shields.io/badge/Fandom-HIHRAIM-520045?logo=fandom&logoColor=white)](https://community.fandom.com/wiki/User:HIHRAIM) <sup>— [rus](https://community.fandom.com/ru/wiki/Стена_обсуждения:HIHRAIM) / [ukr](https://spilnota.fandom.com/wiki/Стіна_обговорення:HIHRAIM) / [eng](https://community.fandom.com/wiki/Message_Wall:HIHRAIM) message wall</sup>
 
-### 📊 GitHub Stats
+### 📊 My GitHub Stats
 <p align="left">
 <img src="./metrics-header.svg" alt="GitHub stats" width="60%">
 <img src="./metrics-langs.svg" alt="Most used languages" width="60%">
